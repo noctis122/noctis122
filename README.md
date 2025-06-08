@@ -1,12 +1,5 @@
-👋 Hi, I'm Mouhib 🌟
-
-💻 Computer science student & AI enthusiast  
-🎨 IEEE CS Chapter Project Manager  
-🤖 I explore AI, machine learning, and computer vision  
-🚀 I work on innovative tech projects and research applications  
-📚 I share about my work & research in AI and data science on [LinkedIn](www.linkedin.com/in/mouhib-farhat)  
-# 💫 About Me:
-👋 Hi, I'm Mouhib 🌟<br><br>💻 Computer science student & AI enthusiast<br>🎨 IEEE CS Chapter Project Manager<br>🤖 I explore AI, machine learning, and computer vision<br>🚀 I work on innovative tech projects and research applications<br>📚 I share about my work & research in AI and data science on LinkedIn
+ # 💫 About Me:
+👋 Hi, I'm Mouhib 🌟<br><br>💻 Computer science student & AI enthusiast<br>🎨 CS Chapter IEEE SBC Project Manager<br>🤖 I explore AI, machine learning, and computer vision<br>🚀 I work on innovative tech projects and research applications<br>📚 I share about my work & research in AI and data science on LinkedIn
 
 
 ## 🌐 Socials:
